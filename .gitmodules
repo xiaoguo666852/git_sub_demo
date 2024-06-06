@@ -1,0 +1,3 @@
+[submodule "dynamic_repo"]
+	path = dynamic_repo
+	url = https://github.com/user/dynamic_repo.git
